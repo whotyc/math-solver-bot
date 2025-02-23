@@ -11,7 +11,3 @@ Requirements:
 - Python 3.7+
 
 - Registered Telegram bot and received API token
-
-**Contacts:** 
-
-@whotyc
