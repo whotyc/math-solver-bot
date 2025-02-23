@@ -1,12 +1,12 @@
-**Math Solver Telegram Bot**
+# Math Solver Telegram Bot
 
-**Description**
+## Description
 
 Math Solver Telegram Bot is a bot for Telegram designed to solve math expressions. The bot allows users to enter math problems and get fast and accurate solutions. It supports basic arithmetic operations as well as more complex expressions such as trigonometric functions and logarithms.
 
-**Project Startup**
+# Project Startup
 
-Requirements:
+## Requirements:
 
 - Python 3.7+
 
